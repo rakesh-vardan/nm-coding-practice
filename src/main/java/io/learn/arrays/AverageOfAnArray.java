@@ -6,6 +6,7 @@ public class AverageOfAnArray
 {
 	public static void main(String[] args) 
 	{
+		// dummy comment
 		int arr[] = {1,2,3,4,5};
 		int add=0;
 		System.out.println("Original array is: " + Arrays.toString(arr));
